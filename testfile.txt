@@ -1,0 +1,2 @@
+This is a very basic tutorial for github by creating a file adding it to the staging area and the commiting the change with an update message and the pushing
+the change to origin master. 
